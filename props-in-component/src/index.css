@@ -26,11 +26,11 @@ div div{
   
 }
 
-aside{
+/* aside{
   background: azure;
   width: calc(30% - 10px);
   margin-left: 10px;
-}
+} */
 main{
   width: calc(70% - 10px);
   background: lightgoldenrodyellow;
